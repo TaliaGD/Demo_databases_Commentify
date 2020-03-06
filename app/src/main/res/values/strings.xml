@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo_databases_Commentify</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_hint_il_username">Username</string>
+    <string name="str_hint_et__username">Username</string>
+    <string name="str_hint_et_content">Content</string>
+    <string name="str_btn_send">Post</string>
+</resources>
